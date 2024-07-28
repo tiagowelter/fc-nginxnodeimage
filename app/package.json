@@ -1,0 +1,14 @@
+{
+    "name": "fullcycle-nginx-node",
+    "version": "1.0.0",
+    "description": "Full Cycle challenge with Nginx as a reverse proxy and Node.js app",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mysql": "^2.18.1"
+    }
+  }
+  
